@@ -42,3 +42,10 @@
   - Screenshots or videos
   - Severity & Priority
 
+# ✅ CleanCity - QA Test Plan (Week 2 Update)
+
+## 🔄 Week 2 Updates
+- Continued from initial setup by drafting and executing test cases.
+- Focused on validating the pickup request flow and dashboard metrics.
+- Identified UI and validation bugs in form fields, dashboard data display, and feedback submission.
+- Encountered test block on Admin Panel due to lack of existing pickup data.
