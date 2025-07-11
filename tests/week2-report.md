@@ -78,4 +78,4 @@ We used a Jira Kanban board to track core bugs and test cases for Week 2. Each i
 - ✅ All test activities were tracked using a **Jira Kanban Board**.
 - 🔗 **Board Link:** [Jira Project - CLEANCITY](https://ivyneangeline-1752265462593.atlassian.net/jira/software/projects/CLEAN/boards/3)
 - 🧷 Columns Used: `To Do`, `In Progress`, and `Done`
-![Jira Kanban Screenshot](image-2.png)
+![Jira Kanban Screenshot](image.png)
