@@ -72,6 +72,7 @@ We used a Jira Kanban board to track core bugs and test cases for Week 2. Each i
 | BUG-003    | Bug      | Dashboard counts do not reflect submission  | Done    | High     | Angeline Ivene   |
 | BUG-004    | Bug      | Admin panel shows no data to schedule       | Done    | High     | Angeline Ivene   |
 
+[GitHub Issues Link](https://github.com/IvyneAngeline/CleanCity/issues)
 
 ## 📌 Jira Evidence (Board Snapshot + Link)
 

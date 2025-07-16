@@ -36,6 +36,8 @@ This week focused on executing more manual test cases and tracking bugs in Jira.
 | TC03  | Dashboard counts update                      | Fail          |
 | TC04  | Admin panel – no requests available          | Blocked       |
 
+[GitHub Issues Link](https://github.com/IvyneAngeline/CleanCity/issues)
+
 ## 👥 Team Contributions
 - **Angeline Ivene**: Pickup and feedback testing, bug reporting
 - **Angeline Ivene**: Dashboard behavior testing and screenshots
